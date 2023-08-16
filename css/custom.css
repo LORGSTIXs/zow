@@ -23,3 +23,21 @@
 .cursor{
     cursor: pointer;
 }
+/* Buttons area */
+.view{
+    background-color: #FB8A2E;
+    color: #fff;
+    width: 140px;
+}
+
+/* Select area */
+.select{
+    height: 200px;
+    width: 95%;
+    border-radius: 2px;
+    background-color: #fff;
+    
+}
+.up{
+    width: 140px;
+}
